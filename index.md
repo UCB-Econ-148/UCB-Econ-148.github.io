@@ -6,8 +6,8 @@ You're at the very beginning of Econ 148!
 Offerings
 ----
 
-- [Spring 2023](http://www.econ148.org/sp23/)
 - [Spring 2024](http://www.econ148.org/sp24/)
+- [Spring 2023](http://www.econ148.org/sp23/)
 
 
 Overview
