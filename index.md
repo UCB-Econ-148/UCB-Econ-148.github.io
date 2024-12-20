@@ -9,6 +9,7 @@ Description
 Offerings
 ----
 
+- [Spring 2025](http://www.econ148.org/sp25/)
 - [Spring 2024](http://www.econ148.org/sp24/)
 - [Spring 2023](http://www.econ148.org/sp23/)
 
