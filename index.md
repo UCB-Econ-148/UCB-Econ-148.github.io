@@ -9,6 +9,7 @@ Description
 Offerings
 ----
 
+-  **Apologies - Econ 148 will not be offered in Spring 2027**
 - [Spring 2026](http://www.econ148.org/sp26/)
 - [Spring 2025](http://www.econ148.org/sp25/)
 - [Spring 2024](http://www.econ148.org/sp24/)
